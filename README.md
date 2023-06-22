@@ -1,7 +1,7 @@
 <h3>First React project!</h3>
 <br>
 Link to project - https://random-advice-project-react.netlify.app
-<br>
+<br><br>
 A lot of fun with this one. I previously created a simple website with HTML, CSS, and JavaScript which consist of rendering random advice by fetching data from an API. After that was done, I remade it in React, as practice to understand the difference between JSX and regular HTML, CSS and JavaScript.
 
 npm install to get dependencies
